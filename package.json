@@ -1,0 +1,22 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "arrays array",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "array"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelsimoneto/arrays.git"
+  },
+  "keywords": [
+    "arrays" , "miguel"
+  ],
+  "author": "miguel angelo simoneto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelsimoneto/arrays/issues"
+  },
+  "homepage": "https://github.com/miguelsimoneto/arrays#readme"
+}
